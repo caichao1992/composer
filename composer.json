@@ -1,0 +1,14 @@
+{
+    "name": "caichao1992/composer",
+    "description": "a test",
+    "type": "project",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "蔡超",
+            "email": "2794807217@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
